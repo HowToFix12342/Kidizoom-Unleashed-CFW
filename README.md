@@ -26,6 +26,9 @@ CFWInstaller: Installs and updates your custom firmware.
 # What’s keeping you from releasing it?
 We need more people to help with development! We're looking for help with reverse-engineering apps on the devices to enable custom ones, and it would be great to have a custom boot animation. If you have experience in these areas, we'd love your assistance!
 
+# What can i do while i wait?
+You can setup your device and every once in a while check the UPDATES.md files for the latest and past news about the jailbreak
+
 # IMPORTANT: Why Isn't Kidizoom Unleashed Open-Source or Available for Download Yet?
 It’s Not Finished Yet: We’re still developing Kidizoom Unleashed. Releasing it too early could cause bugs, instability, or even potential damage to your device. We want to ensure a safe and functional product before sharing it with the community.
 
