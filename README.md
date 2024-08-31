@@ -7,7 +7,8 @@ Kidizoom Unleashed is a jailbreak developed specifically for devices that may fe
 # Do I need a specific model or version to jailbreak?
 Supported Devices: VTech Watch (DX2) or Kidizoom Camera 5.0
 Firmware: Watch needs to be on the out-of-the-box firmware (v1.0). No tinkering required for the camera.
-Is it out right now?
+
+# Is it out right now?
 No, but we've made significant technological advancements that will greatly assist in the development of the jailbreak.
 
 # Can I get my device set up for it now?
