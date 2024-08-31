@@ -28,4 +28,5 @@ We need more people to help with development! We're looking for help with revers
 
 # IMPORTANT: Why Isn't Kidizoom Unleashed Open-Source or Available for Download Yet?
 It’s Not Finished Yet: We’re still developing Kidizoom Unleashed. Releasing it too early could cause bugs, instability, or even potential damage to your device. We want to ensure a safe and functional product before sharing it with the community.
+
 Avoiding Piracy: The project currently relies on certain proprietary files to function. Distributing these files without permission would be considered piracy, which is illegal. To prevent this, we are holding off on releasing any downloads until we can create a patch file or script. This will allow users to apply the modifications to their own legitimately obtained firmware, ensuring everything is above board.
