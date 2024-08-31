@@ -20,6 +20,7 @@ Not yet, but a GitHub repository will be available well before the official rele
 Yes! While these apps are still in development, you'll eventually need:
 
 App Injector: Injects apps and games onto your system.
+
 CFWInstaller: Installs and updates your custom firmware.
 
 # What’s keeping you from releasing it?
