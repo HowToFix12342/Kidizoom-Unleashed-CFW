@@ -1,12 +1,12 @@
 # Kidizoom Unleashed Updates
-Welcome to the Kidizoom Unleashed updates page! Here, you’ll find the latest news and developments about our jailbreak project for the VTech Kidizoom Watch (DX2) and Kidizoom Camera 5.0.
+Welcome to the Kidizoom Unleashed updates page! Here, you’ll find the latest news and developments about our jailbreak project.
 
 
 Latest Update
 August 31, 2024
 
 
-New Progress: We have successfully dumped and analyzed the firmware from both the Kidizoom Watch and Camera. This gives us a solid foundation for developing custom firmware.
+New Progress: We have successfully dumped and analyzed the firmware from both the Kidizoom Watch. This gives us a solid foundation for developing custom firmware.
 Current Focus: Our team is working on creating tools like App Injector and CFWInstaller. These will be essential for installing and updating custom firmware once it’s ready.
 Challenges: We’ve encountered issues with firmware updates being applied automatically through certain apps. We’re investigating ways to mitigate this while ensuring a smooth experience for users.
 
